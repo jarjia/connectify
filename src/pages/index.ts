@@ -1,2 +1,2 @@
-export { default as Register } from "./Register.vue";
-export { default as Login } from "./Login.vue";
+export * from "./Login";
+export * from "./Register";
